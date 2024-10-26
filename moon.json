@@ -1,0 +1,18 @@
+{
+ "id": "69559ba485",
+ "objtype": "world",
+ "roots": [
+  {
+   "identity": "69559ba485:0:d9f84915d760972893e8627878c5c0ef65c70dfb9162e9a5434ecb995ec4a37ca114141cba3068772f1743bc25acfd04b0a2ccedc237518f7a512e4ff9a04f40",
+   "stableEndpoints": [{
+    "id": "your-moon-id",
+    "stableEndpoints": ["47.122.29.44"]
+}
+]
+  }
+ ],
+ "signingKey": "400577a82cf3072e9cf1fda5dd98faa091b4477c993e3ea42bfd62c1d68b461b0c354b3177cffc4a9e46d2a914d55332d551affd6c568d98e4facb513b21bc11",
+ "signingKey_SECRET": "dc849b527215a5f6373ca8cb50accd44adecc14f0cbbe1068f30aa18a42a20afaa8f5e1359e3abae2d25edfad778a0cd862e6cfd4f5abfa1c2fd2058532671be",
+ "updatesMustBeSignedBy": "400577a82cf3072e9cf1fda5dd98faa091b4477c993e3ea42bfd62c1d68b461b0c354b3177cffc4a9e46d2a914d55332d551affd6c568d98e4facb513b21bc11",
+ "worldType": "moon"
+}
